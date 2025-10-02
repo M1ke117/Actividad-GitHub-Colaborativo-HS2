@@ -1,0 +1,5 @@
+Repositorio: Actividad
+Descripción: Actividad de clase
+Control de versiones: Git
+----------------------------------------
+
